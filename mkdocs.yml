@@ -1,0 +1,15 @@
+
+site_name: "Mahol-Nama: Environmental Monitoring and Analytics Portal for Pakistan"
+theme:
+  name: material
+  features:
+    - navigation.expand
+    - navigation.indexes
+    - navigation.tracking
+
+nav:
+  - '': index.md
+  - "Environmental Monitoring Applications":
+      - Monitoring of Urban Greenery: apps/urban-greenery.md
+      - Monitoring of Urban Expansion: apps/urban-expansion.md
+      - Monitoring of Weather Anomalies: apps/weather-anomalies.md
